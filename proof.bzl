@@ -1,1 +1,1 @@
-BCR_REVIEWED_SOURCE_A = "reviewed tag content"
+BCR_UNREVIEWED_SOURCE_B = "post-review main content"
